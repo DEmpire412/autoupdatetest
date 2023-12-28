@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://dempire412.github.io/autoupdatetest/AutoUpdateTest1.1.zip" length="955274" type="application/octet-stream" sparkle:edSignature="JhMAEagrGJdYJcShfGM1apheVJyK8JTbIoB0Tk9jovkdY5z7ytTmtXt5QiRfV4k5eg16gIAO8jNATCKLObT4CQ=="/>
+            <enclosure url="https://github.com/DEmpire412/autoupdatetest/releases/download/v1.1/AutoUpdateTest1.1.zip" length="955274" type="application/octet-stream" sparkle:edSignature="JhMAEagrGJdYJcShfGM1apheVJyK8JTbIoB0Tk9jovkdY5z7ytTmtXt5QiRfV4k5eg16gIAO8jNATCKLObT4CQ=="/>
         </item>
     </channel>
 </rss>
