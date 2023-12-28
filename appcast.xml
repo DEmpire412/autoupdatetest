@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AutoUpdateTest</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Thu, 28 Dec 2023 14:46:35 -0500</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/DEmpire412/autoupdatetest/releases/tag/v1.0" length="955274" type="application/octet-stream" sparkle:edSignature="JhMAEagrGJdYJcShfGM1apheVJyK8JTbIoB0Tk9jovkdY5z7ytTmtXt5QiRfV4k5eg16gIAO8jNATCKLObT4CQ=="/>
+        </item>
+    </channel>
+</rss>
